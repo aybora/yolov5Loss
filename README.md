@@ -1,4 +1,4 @@
-# yolov5Loss
+# yolov5Loss-OGAM
 
 This work modifies original [YOLOv5](https://github.com/ultralytics/yolov5) work for hard example mining via our proposed combination of Balanced Focal Loss and Loss Rank Mining (LRM) approach. Original [loss.py](https://github.com/ultralytics/yolov5/blob/master/utils/loss.py) file is modified for LRM implementation.
 
