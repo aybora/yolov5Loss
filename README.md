@@ -6,7 +6,7 @@ Tested on YOLOv5s in [v5.0 release](https://github.com/ultralytics/yolov5/releas
 
 Use LRM_ignore flag for LRM activation and fl_gamma and obj flags for Balanced Focal Loss.
 
-Related paper: 
+Related paper: http://arxiv.org/abs/2202.13080
 
 Please consider citing our paper and YOLOv5 while using our algorithm.
 
